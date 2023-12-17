@@ -1,0 +1,20 @@
+html{
+  height: 100%;
+  width: 100%;
+  background-color: rgb(245, 245, 245);
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+#diagram_1{
+  height: 100%;
+}
+
+#diagram_2{
+  height: 100%;
+}
