@@ -58,6 +58,9 @@ const Container = styled.div`
   font-size: ${(props) => props.fontSize || "90%"};
   transform: translate(-50%, -50%);
   width: ${(props) => props.width || "7%"};
+  @media (min-width: 500px) and (max-width: 1000px) {
+    padding: 3%
+}
 `
 
 export default Mark;

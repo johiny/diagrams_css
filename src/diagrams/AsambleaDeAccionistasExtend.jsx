@@ -23,7 +23,7 @@ Consejo de <br/> Administracion
 Comité de Auditoria
 </Mark>
 <HorizonalLine arrow  left={'70%'} top={'25%'} width={'5%'}/>
-<Mark backgroundColor={'lightBlue'} textColor={'darkBlue'}  left={'81.5%'} width={'8%'} top={'25%'} >
+<Mark backgroundColor={'lightBlue'} textColor={'darkBlue'}  left={'81.5%'} width={'8%'} paddingY={'0.5%'} top={'25%'} >
 Gerencia División Contraloria/Auditoría Interna
 </Mark>
 <Mark backgroundColor={'white'} textColor={'darkBlue'} paddingY={'1.5%'} width={'8%'}  left={'34%'} top={'25%'} >
@@ -34,7 +34,7 @@ Comités de Apoyo
 Comité de Gestion <br/> de Riesgos
 </Mark>
 <HorizonalLine arrow  left={'70%'} top={'35%'} width={'5%'}/>
-<Mark backgroundColor={'gray'} textColor={'darkBlue'} width={'8%'}  left={'81.5%'} top={'35%'} >
+<Mark backgroundColor={'gray'} textColor={'darkBlue'} width={'8%'}  left={'81.5%'} paddingY={'0.5%'} top={'35%'} >
 Gerencia Administración de Riesgo Corporativo
 </Mark>
 <HorizonalLine arrow backArrow left={'40%'} top={'45%'} width={'20%'}/>

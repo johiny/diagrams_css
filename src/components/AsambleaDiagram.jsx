@@ -9,7 +9,7 @@ const AsambleaDiagram = () => {
       const manejarRedimensionVentana = () => {
         const nuevaAnchura = window.innerWidth;
         setAnchuraPantalla(nuevaAnchura);
-        setAnchuraMenor500(nuevaAnchura < 500);
+        setAnchuraMenor500(nuevaAnchura < 1000);
       };
   
       // Agrega un event listener para el evento de redimensionamiento de la ventana
