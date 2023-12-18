@@ -19,19 +19,19 @@ Consejo de<br/> Administración
 <VerticalLine height={'6%'} arrow  left={'60%'} top={'25%'}/>
 <VerticalLine height={'6%'} arrow  left={'78%'} top={'25%'}/>
 <VerticalLine height={'6%'} arrow  left={'95%'} top={'25%'}/>
-<Mark backgroundColor={'lightBlue'} left={'6%'} top={'35%'} paddingY={'0.8%'}  paddingX={'1.5%'} textColor={'darkBlue'}>
+<Mark backgroundColor={'lightBlue'} left={'6%'} top={'36%'} paddingY={'0.8%'}  paddingX={'1.5%'} textColor={'darkBlue'}>
 Comité de Auditoria
 </Mark>
 <Mark backgroundColor={'lightBlue'}left={'25%'} paddingY={'1.2%'} top={'35%'} paddingX={'1.5%'}textColor={'darkBlue'}>
 Comité de Crédito
 </Mark>
-<Mark backgroundColor={'lightBlue'}left={'60%'} top={'35%'}  paddingY={'0.8%'} textColor={'darkBlue'}>
+<Mark backgroundColor={'lightBlue'}left={'60%'} top={'37%'}  paddingY={'0.8%'} textColor={'darkBlue'}>
 Comité de Gestión <br/> de Riesgos
 </Mark>
-<Mark backgroundColor={'lightBlue'}left={'78%'} top={'35%'}  paddingY={'0.8%'} textColor={'darkBlue'}>
+<Mark backgroundColor={'lightBlue'}left={'78%'} top={'36%'}  paddingY={'0.8%'} textColor={'darkBlue'}>
 Comité de <br/> Cumplimiento
 </Mark>
-<Mark backgroundColor={'lightBlue'}left={'94%'} top={'35%'}  paddingY={'0.8%'} width={'9%'} paddingX={'1%'} textColor={'darkBlue'}>
+<Mark backgroundColor={'lightBlue'}left={'94%'} top={'37%'}  paddingY={'0.8%'} width={'9%'} paddingX={'1%'} textColor={'darkBlue'}>
 Comité de Contingencia <br/> de Recuperacion Corp.
 </Mark>
 <VerticalLine height={'4%'}  position={'absolute'} left={'25%'} top={'38%'}/>
@@ -41,8 +41,8 @@ Comité de Contingencia <br/> de Recuperacion Corp.
 <Mark backgroundColor={'white'}left={'18%'} top={'50%'} paddingX={'1.5%'} paddingY={'0.8%'} textColor={'darkBlue'}>
 Comité de Auditoría
 </Mark>
-<Mark backgroundColor={'white'}left={'32%'} top={'50%'} paddingX={'1.5%'} paddingY={'0.8%'} textColor={'darkBlue'}>
-Comité de Auditoría
+<Mark backgroundColor={'white'}left={'32%'} top={'50%'} paddingX={'1.5%'} paddingY={'1.2%'} textColor={'darkBlue'}>
+Comité de Crédito
 </Mark>
 <Mark backgroundColor={'greenBlue'}left={'50%'} top={'63%'} paddingX={'1.5%'} paddingY={'1.2%'} textColor={'white'}>
 Gerencia General
