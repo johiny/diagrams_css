@@ -37,7 +37,7 @@ const mark_colors = {
 };
 
 const mark_text_colors = {
-  darkBlue: "#084080",
+  darkBlue: "#003865",
   white: "#ffffff",
 };
 

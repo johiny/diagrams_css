@@ -24,7 +24,7 @@ Comité de Auditoría
 </Mark>
 <HorizonalLine arrow  left={'70%'} top={'25%'} width={'5%'}/>
 <Mark backgroundColor={'lightBlue'} textColor={'darkBlue'}  left={'81.5%'} width={'8%'} paddingY={'0.5%'} top={'25%'} >
-Gerencia División Contraloria / <br/> Auditoría Interna
+Gerencia División Contraloría / <br/> Auditoría Interna
 </Mark>
 <Mark backgroundColor={'white'} textColor={'darkBlue'} paddingY={'1.5%'} width={'8%'}  left={'34%'} top={'25%'} >
 Comités de Apoyo

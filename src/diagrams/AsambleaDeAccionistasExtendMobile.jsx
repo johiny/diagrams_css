@@ -70,7 +70,7 @@ const AsambleaDeAccionistasExtendMobile = () => {
         width={'50%'}
         paddingY={"2%"}
       >
-        Gerencia División Contraloria / <br/> Auditoría Interna
+        Gerencia División Contraloría / <br/> Auditoría Interna
       </Mark>
       <HorizonalLine left={'20%'} top={'75%'} width={'15%'}/>
       <Mark
