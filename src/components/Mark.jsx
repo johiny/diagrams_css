@@ -29,10 +29,10 @@ const Mark = ({
 const mark_colors = {
   darkBlue: "#084080",
   greenBlue: "#2c94a7",
-  lightBlue: "#15bfdd",
+  lightBlue: "#8EE2EA",
   veryLigthBlue: "#69e2f8",
   white: "#ffffff",
-  yellow: '#ebd52c',
+  yellow: '#FDD26E',
   gray: '#b8b8b8',
 };
 

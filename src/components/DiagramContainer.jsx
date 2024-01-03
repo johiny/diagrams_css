@@ -1,7 +1,7 @@
 import {styled} from "styled-components"
-const DiagramContainer = ({children}) => {
+const DiagramContainer = ({children, marginTop}) => {
   return (
-    <Container>
+    <Container marginTop={marginTop}>
     {children}
     </Container>
   )
@@ -9,9 +9,11 @@ const DiagramContainer = ({children}) => {
 
 const Container = styled.div`
   position: relative;
-  width: 100vw;
-  min-height: 100vh;
+  width: 100%;
+  min-height: 100%;
   background-color: transparent;
-  overflow: auto;
+  overflow: visible;
+  margin-top: ${(props) => props.marginTop || 0};
+  overflow-y: visible;
 `
 export default DiagramContainer

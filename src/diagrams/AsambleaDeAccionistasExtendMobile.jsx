@@ -5,7 +5,7 @@ import DiagramContainer from "../components/DiagramContainer";
 import HorizontalLineDotted from "../components/HorizontalLineDotted";
 const AsambleaDeAccionistasExtendMobile = () => {
   return (
-    <DiagramContainer>
+    <DiagramContainer marginTop={'60vh'}>
       <Mark
         backgroundColor={"darkBlue"}
         left={"50%"}
@@ -36,7 +36,7 @@ const AsambleaDeAccionistasExtendMobile = () => {
         width={'90%'}
         paddingY={"3%"}
       >
-        Consejo de <br /> Administracion
+        Consejo de <br /> Administración
       </Mark>
       <HorizonalLine left={'20%'} top={'45%'} width={'15%'}/>
       <Mark
@@ -58,7 +58,7 @@ const AsambleaDeAccionistasExtendMobile = () => {
         width={'50%'}
         paddingY={"5%"}
       >
-        Comité de Auditoria
+        Comité de Auditoría
       </Mark>
       <VerticalLine left={"30%"} top={"58%"} height={"6%"} />
       <HorizonalLine left={'30%'} top={'64%'} width={'6%'}/>
@@ -70,7 +70,7 @@ const AsambleaDeAccionistasExtendMobile = () => {
         width={'50%'}
         paddingY={"2%"}
       >
-        Gerencia División Contraloria/Auditoría Interna
+        Gerencia División Contraloria / <br/> Auditoría Interna
       </Mark>
       <HorizonalLine left={'20%'} top={'75%'} width={'15%'}/>
       <Mark
@@ -125,7 +125,7 @@ const AsambleaDeAccionistasExtendMobile = () => {
         width={'90%'}
         paddingY={"3%"}
       >
-        Consejo de <br /> Administracion
+        Consejo de <br /> Administración
       </Mark>
       <HorizonalLine left={'20%'} top={'125%'} width={'15%'}/>
       <Mark
@@ -303,7 +303,7 @@ const AsambleaDeAccionistasExtendMobile = () => {
         width={'50%'}
         paddingY={"5%"}
       >
-      Contenida, S.A
+      Contecnica, S.A
       </Mark>
       <HorizonalLine left={'20%'} top={'263%'} width={'5%'}/>
       <Mark

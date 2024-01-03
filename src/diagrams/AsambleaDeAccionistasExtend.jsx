@@ -15,16 +15,16 @@ Asamblea de<br/> Accionistas
 Auditoría Externa
 </Mark>
 <Mark backgroundColor={'greenBlue'} textColor={'white'}  left={'50%'} top={'18%'} >
-Consejo de <br/> Administracion
+Consejo de <br/> Administración
 </Mark>
 <VerticalLine arrow left={'50%'} top={'20%'} height={'35%'}/>
 <HorizonalLine arrow backArrow left={'40%'} top={'25%'} width={'20%'}/>
 <Mark backgroundColor={'white'} textColor={'darkBlue'}  left={'66%'} top={'25%'} >
-Comité de Auditoria
+Comité de Auditoría
 </Mark>
 <HorizonalLine arrow  left={'70%'} top={'25%'} width={'5%'}/>
 <Mark backgroundColor={'lightBlue'} textColor={'darkBlue'}  left={'81.5%'} width={'8%'} paddingY={'0.5%'} top={'25%'} >
-Gerencia División Contraloria/Auditoría Interna
+Gerencia División Contraloria / <br/> Auditoría Interna
 </Mark>
 <Mark backgroundColor={'white'} textColor={'darkBlue'} paddingY={'1.5%'} width={'8%'}  left={'34%'} top={'25%'} >
 Comités de Apoyo
@@ -45,7 +45,7 @@ Asesoría Legal
 Cumplimiento
 </Mark>
 <Mark backgroundColor={'greenBlue'} textColor={'white'}  left={'50%'} top={'60%'} >
-Consejo de <br/> Administracion
+Consejo de <br/> Administración
 </Mark>
 <VerticalLine arrow left={'50%'} top={'63%'} height={'66%'}/>
 <HorizonalLine left={'30%'} top={'70%'} width={'42%'}/>
@@ -116,7 +116,7 @@ Gerencia División <br/> Banca Personal
 Financiera <br/> Industrial, S.A
 </Mark>
 <Mark backgroundColor={'white'} textColor={'darkBlue'}  left={'94%'} top={'122.5%'} paddingX={'1.5%'}>
-Contenida, <br/> S.A
+Contecnica, <br/> S.A
 </Mark>
 <HorizonalLine left={'35%'} top={'125%'} width={'30%'}/>
 <VerticalLine arrow left={'65%'} top={'125%'} height={'4%'}/>

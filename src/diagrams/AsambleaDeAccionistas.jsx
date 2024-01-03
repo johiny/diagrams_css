@@ -20,7 +20,7 @@ Consejo de<br/> Administración
 <VerticalLine height={'6%'} arrow  left={'78%'} top={'25%'}/>
 <VerticalLine height={'6%'} arrow  left={'95%'} top={'25%'}/>
 <Mark backgroundColor={'lightBlue'} left={'6%'} top={'37%'} paddingY={'0.8%'}  paddingX={'1.5%'} textColor={'darkBlue'}>
-Comité de Auditoria
+Comité de Auditoría
 </Mark>
 <Mark backgroundColor={'lightBlue'}left={'25%'} paddingY={'1.2%'} top={'37%'} paddingX={'1.5%'}textColor={'darkBlue'}>
 Comité de Crédito
@@ -32,17 +32,17 @@ Comité de Gestión <br/> de Riesgos
 Comité de <br/> Cumplimiento
 </Mark>
 <Mark backgroundColor={'lightBlue'}left={'94%'} top={'37%'}  paddingY={'0.8%'} width={'9%'} paddingX={'1%'} textColor={'darkBlue'}>
-Comité de Contingencia <br/> de Recuperacion Corp.
+Comité de Contingencia <br/> de Recuperación Corp.
 </Mark>
 <VerticalLine height={'4%'}  position={'absolute'} left={'25%'} top={'38%'}/>
 <HorizonalLine width={'13%'} position={'absolute'} left={'18.8%'} top={'42%'}/>
 <VerticalLine height={'4%'} arrow  position={'absolute'} left={'18.8%'} top={'42%'}/>
 <VerticalLine height={'4%'} arrow  position={'absolute'} left={'31.8%'} top={'42%'}/>
 <Mark backgroundColor={'white'}left={'18%'} top={'50%'} paddingX={'1.5%'} paddingY={'0.8%'} textColor={'darkBlue'}>
-Comité de Auditoría
+Comité de Cobros
 </Mark>
 <Mark backgroundColor={'white'}left={'32%'} top={'50%'} paddingX={'1.5%'} paddingY={'1.2%'} textColor={'darkBlue'}>
-Comité de Crédito
+Comité FHA
 </Mark>
 <Mark backgroundColor={'greenBlue'}left={'50%'} top={'63%'} paddingX={'1.5%'} paddingY={'1.2%'} textColor={'white'}>
 Gerencia General
@@ -60,7 +60,7 @@ Comité de Ética
 Comité de Gerentes
 </Mark>
 <Mark backgroundColor={'white'}left={'50%'} top={'79%'} paddingX={'1.5%'} paddingY={'0.8%'} textColor={'darkBlue'}>
-Comité de Tecnologia
+Comité de Tecnología
 </Mark>
 <Mark backgroundColor={'white'}left={'68%'} top={'79%'} width={'9%'} paddingY={'0.8%'} textColor={'darkBlue'}>
 Comité de Continuidad <br/> del Negocio

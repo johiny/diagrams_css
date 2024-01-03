@@ -57,7 +57,7 @@ const AsambleaDeAccionesMobile = () => {
         width={"50%"}
         textColor={"darkBlue"}
       >
-        Comité de Auditoría
+        Comité de Cobros
       </Mark>
       <HorizonalLine width={'10%'} left={'26%'} top={'55%'}/>
       <Mark
@@ -68,7 +68,7 @@ const AsambleaDeAccionesMobile = () => {
         width={"50%"}
         textColor={"darkBlue"}
       >
-        Comité de Crédito
+        Comité FHA
       </Mark>
       <HorizonalLine width={'10%'} left={'18%'} top={'65%'}/>
       <Mark
@@ -101,7 +101,7 @@ const AsambleaDeAccionesMobile = () => {
         width={"50%"}
         textColor={"darkBlue"}
       >
-        Comité de Contingencia <br/> de Recuperacion Corp.
+        Comité de Contingencia <br/> de Recuperación Corp.
       </Mark>
       <HorizonalLine width={'10%'} left={'18%'} top={'98%'}/>
       <Mark
@@ -146,7 +146,7 @@ const AsambleaDeAccionesMobile = () => {
         width={"50%"}
         textColor={"darkBlue"}
       >
-       Comité de Tecnologia
+       Comité de Tecnología
       </Mark>
       <HorizonalLine width={'10%'} left={'26%'} top={'140%'}/>
       <Mark
