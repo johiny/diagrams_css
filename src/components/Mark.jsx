@@ -27,7 +27,7 @@ const Mark = ({
 };
 
 const mark_colors = {
-  darkBlue: "#084080",
+  darkBlue: "#003865",
   greenBlue: "#2c94a7",
   lightBlue: "#8EE2EA",
   veryLigthBlue: "#69e2f8",
