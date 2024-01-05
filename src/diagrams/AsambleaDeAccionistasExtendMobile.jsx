@@ -5,7 +5,7 @@ import DiagramContainer from "../components/DiagramContainer";
 import HorizontalLineDotted from "../components/HorizontalLineDotted";
 const AsambleaDeAccionistasExtendMobile = () => {
   return (
-    <DiagramContainer marginTop={'60vh'}>
+    <DiagramContainer>
       <Mark
         backgroundColor={"darkBlue"}
         left={"50%"}

@@ -3,6 +3,9 @@ html{
   width: 100%;
   background-color: #F1F1F1;
 }
+iframe{
+  border: 0px;
+}
 body {
   font-family: Arial, sans-serif;
   margin: 0;
